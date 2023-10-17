@@ -1,0 +1,42 @@
+const transactions = [
+    {
+      id: 1,
+      itemName: 'Groceries',
+      date: '2023-10-16',
+      from: 'Grocery Store',
+      amount: 50.0,
+      category: 'Food',
+    },
+    {
+      id: 2,
+      itemName: 'Salary',
+      date: '2023-10-15',
+      from: 'Employer',
+      amount: 3000.0,
+      category: 'Income',
+    },
+    {
+      id: 3,
+      itemName: 'Gasoline',
+      date: '2023-10-14',
+      from: 'Gas Station',
+      amount: 40.0,
+      category: 'Transportation',
+    },
+    {
+      id: 4,
+      itemName: 'Movie Tickets',
+      date: '2023-10-13',
+      from: 'Cinema',
+      amount: 25.0,
+      category: 'Entertainment',
+    },
+    {
+      id: 5,
+      itemName: 'Savings Deposit',
+      date: '2023-10-12',
+      from: 'Bank',
+      amount: 500.0,
+      category: 'Savings',
+    },
+  ];
