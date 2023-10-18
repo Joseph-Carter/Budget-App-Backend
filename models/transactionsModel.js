@@ -1,4 +1,4 @@
-const transactions = [
+module.exports = [
     {
       id: 1,
       itemName: 'Groceries',
