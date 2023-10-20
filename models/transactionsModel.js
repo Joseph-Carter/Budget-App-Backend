@@ -4,7 +4,8 @@ module.exports = [
       itemName: 'Groceries',
       date: '2023-10-16',
       from: 'Grocery Store',
-      amount: 50.0,
+      amount: 150.00,
+      spent: true,
       category: 'Food',
     },
     {
@@ -12,7 +13,8 @@ module.exports = [
       itemName: 'Salary',
       date: '2023-10-15',
       from: 'Employer',
-      amount: 3000.0,
+      amount: 2000.00,
+      spent: false,
       category: 'Income',
     },
     {
@@ -20,7 +22,8 @@ module.exports = [
       itemName: 'Gasoline',
       date: '2023-10-14',
       from: 'Gas Station',
-      amount: 40.0,
+      amount: 35.00,
+      spent: true,
       category: 'Transportation',
     },
     {
@@ -28,7 +31,8 @@ module.exports = [
       itemName: 'Movie Tickets',
       date: '2023-10-13',
       from: 'Cinema',
-      amount: 25.0,
+      amount: 27.00,
+      spent: true,
       category: 'Entertainment',
     },
     {
@@ -36,7 +40,8 @@ module.exports = [
       itemName: 'Savings Deposit',
       date: '2023-10-12',
       from: 'Bank',
-      amount: 500.0,
+      amount: 500.00,
+      spent: false,
       category: 'Savings',
     },
   ];
