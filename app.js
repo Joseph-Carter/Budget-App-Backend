@@ -13,8 +13,8 @@ app.get("/", (req, res) => (
     res.send(`Welcome to the home page`)
 ))
 
-app.get("/404", (req, res) => {
-    res.send(`Sorry, the page you are trying to access does not exist.`)
+app.get("/*", (req, res) => {
+    res.status(404).send(`Sorry, the page you are trying to access does not exist.`)
 })
 
 
