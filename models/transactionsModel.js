@@ -2,7 +2,7 @@ module.exports = [
     {
       id: 1,
       itemName: 'Groceries',
-      date: '2023-10-16',
+      date: '2023/10/16',
       from: 'Grocery Store',
       amount: 150.00,
       spent: true,
@@ -11,7 +11,7 @@ module.exports = [
     {
       id: 2,
       itemName: 'Salary',
-      date: '2023-10-15',
+      date: '2023/10/15',
       from: 'Employer',
       amount: 2000.00,
       spent: false,
@@ -20,7 +20,7 @@ module.exports = [
     {
       id: 3,
       itemName: 'Gasoline',
-      date: '2023-10-14',
+      date: '2023/10/14',
       from: 'Gas Station',
       amount: 35.00,
       spent: true,
@@ -29,7 +29,7 @@ module.exports = [
     {
       id: 4,
       itemName: 'Movie Tickets',
-      date: '2023-10-13',
+      date: '2023/10/13',
       from: 'Cinema',
       amount: 27.00,
       spent: true,
@@ -38,7 +38,7 @@ module.exports = [
     {
       id: 5,
       itemName: 'Savings Deposit',
-      date: '2023-10-12',
+      date: '2023/10/12',
       from: 'Bank',
       amount: 500.00,
       spent: false,
