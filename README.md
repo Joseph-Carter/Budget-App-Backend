@@ -47,7 +47,7 @@ module.exports = [
   },
   // Add more sample transactions here...
 ];
-
+```
 ## Getting Started
 To set up and run the backend of the Personal Budget Tracker locally, you can follow these steps:
 
